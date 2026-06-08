@@ -54,3 +54,11 @@ Render interactive 3D surface (Plotly) — calls / puts / both
 ## Tech stack
 
 `Python` · `Streamlit` · `NumPy` · `SciPy` · `pandas` · `Plotly` · `yfinance`
+
+
+## References
+
+- [Implied volatility — Wikipedia](https://en.wikipedia.org/wiki/Implied_volatility)
+- [Volatility smile — Wikipedia](https://en.wikipedia.org/wiki/Volatility_smile)
+- [Black–Scholes model — Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+- [Volatility (finance) — Wikipedia](https://en.wikipedia.org/wiki/Volatility_(finance))
